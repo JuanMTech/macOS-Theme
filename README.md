@@ -17,9 +17,9 @@ A Home Assistant theme based on the macOS Monterey system-wide light and dark mo
 
 ## Screenshots
 
-![macOS Light Mode](https://raw.githubusercontent.com/JuanMTech/macos_theme/master/images/macOS_Light.jpg)<br />
+![macOS Light Mode](https://raw.githubusercontent.com/JuanMTech/macOS-Theme/master/images/mac0S_Light.png)<br />
 <br />
-![macOS Dark Mode](https://raw.githubusercontent.com/JuanMTech/macos_theme/master/images/macOS_Dark.jpg)<br />
+![macOS Dark Mode](https://raw.githubusercontent.com/JuanMTech/macOS-Theme/master/images/macOS_Dark.png)<br />
 <br />
 
 ### Preparation
