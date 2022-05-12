@@ -4,7 +4,7 @@ A Home Assistant theme based on the macOS Monterey system-wide light and dark mo
 <br />
 <br />
 
-[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg?style=for-the-badge)](https://github.com/custom-components/hacs)
+[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg?style=for-the-badge)](https://github.com/hacs/integration)
 
 
 [![Subscribe to YouTube channel][youtube-sub-shield]][youtubesubscribe]
