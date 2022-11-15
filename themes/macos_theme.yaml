@@ -53,8 +53,9 @@ macOS Theme:
       label-badge-gray: rgb(142, 142, 147)
       # Cards
       card-background-color: rgb(243, 243, 244)
-      ha-card-border-radius: "10px"
-      ha-card-box-shadow: none
+      ha-card-background, var: rgb(243, 243, 244)
+      ha-card-border-color: none
+      ha-card-border-width: 0px
       paper-dialog-background-color: var(--card-background-color)
       paper-listbox-background-color: var(--card-background-color)
       paper-card-background-color: var(--card-background-color)
@@ -112,6 +113,11 @@ macOS Theme:
       mush-rgb-pink: 255, 45, 85
       mush-rgb-red: 253, 73, 67
       mush-rgb-gray: 142, 142, 147
+      mush-rgb-disabled: 70, 70, 70
+      mush-icon-border-radius: 30%
+      mush-rgb-state-media-player: 0, 122, 255
+      #RGB
+      rgb-primary-text-color: 0, 0, 0
 #
     dark:
       # Header:
@@ -159,8 +165,9 @@ macOS Theme:
       label-badge-gray: rgb(90, 89, 88)
       # Cards
       card-background-color: rgb(50, 51, 53)
-      ha-card-border-radius: "10px"
-      ha-card-box-shadow: none
+      ha-card-background: rgb(50, 51, 53)
+      ha-card-border-color: none
+      ha-card-border-width: 0px
       paper-dialog-background-color: var(--card-background-color)
       paper-listbox-background-color: var(--card-background-color)
       paper-card-background-color: var(--card-background-color)
@@ -218,3 +225,9 @@ macOS Theme:
       mush-rgb-pink: 255, 55, 95
       mush-rgb-red: 255, 69, 58
       mush-rgb-gray: 90, 89, 88
+      mush-rgb-disabled: 197, 197, 198
+      mush-icon-border-radius: 30%
+      mush-rgb-state-media-player: 0, 122, 255
+      #RGB
+      rgb-primary-text-color: 255, 255, 255
+      
