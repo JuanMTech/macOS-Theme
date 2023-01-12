@@ -118,6 +118,7 @@ macOS Theme:
       mush-rgb-state-media-player: 0, 122, 255
       #RGB
       rgb-primary-text-color: 0, 0, 0
+      rgb-primary-color: 0, 0, 0
 #
     dark:
       # Header:
@@ -230,4 +231,4 @@ macOS Theme:
       mush-rgb-state-media-player: 0, 122, 255
       #RGB
       rgb-primary-text-color: 255, 255, 255
-      
+      rgb-primary-color: 255, 255, 255
