@@ -119,6 +119,16 @@ macOS Theme:
       #RGB
       rgb-primary-text-color: 0, 0, 0
       rgb-primary-color: 0, 0, 0
+      rgb-accent-color: 0, 122, 255
+      rgb-state-switch-color: var(--rgb-accent-color)
+      rgb-state-light-color: var(--rgb-accent-color)
+      rgb-state-fan-color: var(--rgb-accent-color)
+      rgb-state-script-color: var(--rgb-accent-color)
+      rgb-state-vacuum-color: var(--rgb-accent-color)
+      rgb-state-remote-color: var(--rgb-accent-color)
+      rgb-state-input-boolean-color: var(--rgb-accent-color)
+      rgb-state-humidifier-color: var(--rgb-accent-color)
+      rgb-state-cover-color: var(--rgb-accent-color)
 #
     dark:
       # Header:
@@ -232,3 +242,13 @@ macOS Theme:
       #RGB
       rgb-primary-text-color: 255, 255, 255
       rgb-primary-color: 255, 255, 255
+      rgb-accent-color: 0, 122, 255
+      rgb-state-switch-color: var(--rgb-accent-color)
+      rgb-state-light-color: var(--rgb-accent-color)
+      rgb-state-fan-color: var(--rgb-accent-color)
+      rgb-state-script-color: var(--rgb-accent-color)
+      rgb-state-vacuum-color: var(--rgb-accent-color)
+      rgb-state-remote-color: var(--rgb-accent-color)
+      rgb-state-input-boolean-color: var(--rgb-accent-color)
+      rgb-state-humidifier-color: var(--rgb-accent-color)
+      rgb-state-cover-color: var(--rgb-accent-color)
